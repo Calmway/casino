@@ -1,0 +1,13 @@
+input, button, a {
+    outline: none;
+}
+body {
+    margin: 0;
+    height: 89vh;
+}
+#app, .home_page {
+    height: 100%;
+}
+p {
+    color: #fff;
+}
